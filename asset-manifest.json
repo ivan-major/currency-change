@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ivan-major/currency-change/static/css/main.55cb1793.css",
-    "main.js": "/ivan-major/currency-change/static/js/main.1385a2a1.js",
-    "index.html": "/ivan-major/currency-change/index.html",
-    "main.55cb1793.css.map": "/ivan-major/currency-change/static/css/main.55cb1793.css.map",
-    "main.1385a2a1.js.map": "/ivan-major/currency-change/static/js/main.1385a2a1.js.map"
+    "main.css": "/currency-change/static/css/main.55cb1793.css",
+    "main.js": "/currency-change/static/js/main.1385a2a1.js",
+    "index.html": "/currency-change/index.html",
+    "main.55cb1793.css.map": "/currency-change/static/css/main.55cb1793.css.map",
+    "main.1385a2a1.js.map": "/currency-change/static/js/main.1385a2a1.js.map"
   },
   "entrypoints": [
     "static/css/main.55cb1793.css",
