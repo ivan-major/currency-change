@@ -1,4 +1,4 @@
-# Currency Converter Applocation.
+# Currency Converter Application.
 
 [DEMO LINK] (https://ivan-major.github.io/currency-change)
 
