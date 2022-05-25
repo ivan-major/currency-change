@@ -1,0 +1,56 @@
+.select {
+  width: 35%;
+}
+
+.select__button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #14377b;
+  cursor: pointer;
+
+  border: 1px solid #5285eb;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow:
+    inset 2px 2px 2px rgb(82, 133, 235, 0.7),
+    inset -2px -2px 2px rgb(82, 133, 235, 0.7);
+}
+
+.select__button:hover {
+  background-color: #5285eb;
+  color: #fff;
+}
+
+.select__text {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.select__items {
+  list-style: none;
+  padding: 0 10px;
+}
+
+.select__item {
+  display: flex;
+  width: 70px;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #5285eb;
+  margin-bottom: 5px;
+  color: #14377b;
+  font-size: 18px;
+}
+
+.select__item:hover {
+  background-color: #5285eb;
+  color: #fff;
+}
+
+.select__flag {
+  width: 22px;
+  height: 18px;
+}
