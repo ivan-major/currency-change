@@ -7,7 +7,7 @@ The exchange rate is used within API of PRIVATE BANK.
 
 The following technologies used to develop the application:
 
--React JS,
+- React JS,
 - CSS,
 - HTML,
 - Java Script.
