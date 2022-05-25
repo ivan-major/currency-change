@@ -1,6 +1,6 @@
 # Currency Converter Applocation.
 
-[DEMO LINK] (https://ivan-major.github.io/currency_change)
+[DEMO LINK] (https://ivan-major.github.io/currency-change)
 
 Application for converting two major world currencies "USD" and "EUR" against the "UAH" and against each other.
 The exchange rate is used within API of PRIVATE BANK.
